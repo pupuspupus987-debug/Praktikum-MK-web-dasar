@@ -1,0 +1,30 @@
+* { box-sizing: border-box; }
+
+header {
+    color: aliceblue;
+   background-color:black ; 
+   padding: -20px;
+   bottom: 30px;
+   margin: 20px;
+
+}
+
+body {
+    position: relative;
+}
+
+nav {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.URL-fb {
+    margin-left: 5px;
+    color: rgb(1, 10, 18);
+    background-color: rgb(226, 226, 237);
+}
+
+.img {
+    width: 50%;
+
+}
