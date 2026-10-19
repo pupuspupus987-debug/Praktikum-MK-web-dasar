@@ -2,29 +2,50 @@
 
 header {
     color: aliceblue;
-   background-color:black ; 
-   padding: -20px;
+   background-color:rgb(56, 100, 118) ; 
+   padding: -50px;
+   top: 200px;
    bottom: 30px;
    margin: 20px;
+   border: 2px solid;
+   margin-top: 200px;
+   margin-bottom: auto;
+   border: 20px;
+   font-family: Arial, sans-serif;
+   font-size: medium;
+
 
 }
 
 body {
     position: relative;
+    background-color: bisque;
+    color: black;
 }
 
 nav {
     position: absolute;
-    top: 20px;
+    top: -50px;
     right: 20px;
+    padding: 10px;
+    margin: 5px;
+    border: 20px;
 }
 .URL-fb {
     margin-left: 5px;
-    color: rgb(1, 10, 18);
-    background-color: rgb(226, 226, 237);
+    color: rgb(1, 80, 150);
+    background-color: rgb(136, 136, 143);
 }
 
 .img {
-    width: 50%;
+    width: 20%;
 
+}
+
+.img2 {
+    width: 20%;
+}
+
+*{
+    
 }
